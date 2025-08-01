@@ -16,7 +16,7 @@ The Nomura GM Quant Challenge 2025 consisted of multiple complex quantitative fi
 
 ### ** Question 3 : Trading Strategy Implementation**
 
-### **Task 1: Multi-Strategy Portfolio Construction**
+### ** Task 1: Multi-Strategy Portfolio Construction**
 
 **Problem Statement:**
 Develop and implement 5 distinct trading strategies for a universe of 20 financial instruments, then evaluate their performance using cross-validation data without transaction costs.
